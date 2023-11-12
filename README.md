@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tohirjon-Odilov.Tohirjon-Odilov.issue.1" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Azamjon_Bro.Azamjon_Bro.issue.1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tohirjon+Odilov!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azamjon_Bro!;" />
 </h1>
 
 <h3 align="center">A passionate developer from Uzbekistan. 🇺🇿</h3>
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MySQL, PyQt5**
 
- 💬 Ask me about **React, Firebase, MySQL... or anything [here](https://github.com/tohirjon-odilov/tohirjon-odilov/issues)**
+ 💬 Ask me about **React, Firebase, MySQL... or anything [here](https://github.com/azamjon_bro/azamjon_bro/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,python,javascript,c,react,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,javascript,c,react" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,materialui,vscode,figma,linkedin,netlify" />
 </div>
 
@@ -57,8 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Tohirjon-Odilov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=azamjon_bro&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=azamjon_bro&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirjon-Odilov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
